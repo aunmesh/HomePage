@@ -5,7 +5,16 @@
     
     <url>
     
-      <loc>//localhost:1313/publication/surfnet-generating-3d-shape-surfaces-using-deep-residual-networks/</loc>
+      <loc>//localhost:37933/publication/simulation-of-evolution-of-society/</loc>
+      <lastmod>2018-08-01T18:38:26+05:30</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>//localhost:37933/publication/surfnet-generating-3d-shape-surfaces-using-deep-residual-networks/</loc>
       <lastmod>2017-07-25T11:24:27+05:30</lastmod>
     </url>
     
@@ -14,7 +23,7 @@
     
     <url>
     
-      <loc>//localhost:1313/post/</loc>
+      <loc>//localhost:37933/post/</loc>
       <lastmod>2017-01-01T00:00:00+05:30</lastmod>
     </url>
     
@@ -23,7 +32,7 @@
     
     <url>
     
-      <loc>//localhost:1313/publication/</loc>
+      <loc>//localhost:37933/publication/</loc>
       <lastmod>2017-01-01T00:00:00+05:30</lastmod>
     </url>
     
@@ -32,7 +41,7 @@
     
     <url>
     
-      <loc>//localhost:1313/talk/</loc>
+      <loc>//localhost:37933/talk/</loc>
       <lastmod>2017-01-01T00:00:00+05:30</lastmod>
     </url>
     
@@ -41,7 +50,17 @@
     
     <url>
     
-      <loc>//localhost:1313/publication_types/1/</loc>
+      <loc>//localhost:37933/publication_types/0/</loc>
+      <lastmod>2018-08-01T18:38:26+05:30</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>//localhost:37933/publication_types/1/</loc>
       <lastmod>2017-07-25T11:24:27+05:30</lastmod>
       <priority>0</priority>
     </url>
@@ -51,7 +70,7 @@
     
     <url>
     
-      <loc>//localhost:1313/</loc>
+      <loc>//localhost:37933/</loc>
       <lastmod>2018-08-01T00:00:00+05:30</lastmod>
       <priority>0</priority>
     </url>
@@ -61,8 +80,7 @@
     
     <url>
     
-      <loc>//localhost:1313/tags/cvpr2017/</loc>
-      <lastmod>2017-07-25T11:24:27+05:30</lastmod>
+      <loc>//localhost:37933/categories/</loc>
       <priority>0</priority>
     </url>
     
@@ -71,7 +89,8 @@
     
     <url>
     
-      <loc>//localhost:1313/categories/</loc>
+      <loc>//localhost:37933/publication_types/</loc>
+      <lastmod>2018-08-01T18:38:26+05:30</lastmod>
       <priority>0</priority>
     </url>
     
@@ -80,18 +99,7 @@
     
     <url>
     
-      <loc>//localhost:1313/publication_types/</loc>
-      <lastmod>2017-07-25T11:24:27+05:30</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>//localhost:1313/tags/</loc>
-      <lastmod>2017-07-25T11:24:27+05:30</lastmod>
+      <loc>//localhost:37933/tags/</loc>
       <priority>0</priority>
     </url>
     

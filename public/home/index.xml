@@ -2,95 +2,95 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Homes on Asim Unmesh</title>
-    <link>//localhost:1313/home/</link>
+    <link>//localhost:37933/home/</link>
     <description>Recent content in Homes on Asim Unmesh</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Wed, 01 Aug 2018 00:00:00 +0530</lastBuildDate>
     
-	<atom:link href="//localhost:1313/home/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="//localhost:37933/home/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>//localhost:1313/home/about/</link>
+      <link>//localhost:37933/home/about/</link>
       <pubDate>Wed, 01 Aug 2018 00:00:00 +0530</pubDate>
       
-      <guid>//localhost:1313/home/about/</guid>
-      <description>Biography I am a Masters student, in Computer Science and Engineering, at Indian Institute of Technology Kanpur advised by Prof. Vinay P. Namboodiri. My interests are in problems of Computer Vision. I have previously worked in the fields of 3D reconstruction, Active learning for Object Detection. My current thesis area lies broadly in the field of Generative Models and their use in Computer Vision. I spend most of my time in my M.</description>
+      <guid>//localhost:37933/home/about/</guid>
+      <description>Biography I am a Masters student, in Computer Science and Engineering, at Indian Institute of Technology Kanpur advised by Prof. Vinay P. Namboodiri. My interests are in problems of Computer Vision. I have previously done projects in the fields of 3D reconstruction, Active learning, Multi-Agent system among few other areas. I am currently interested in the field of Generative Models and their use in Computer Vision. When not found in lab I will most likely be sleeping or playing soccer.</description>
     </item>
     
     <item>
       <title>Selected Publications</title>
-      <link>//localhost:1313/home/publications_selected/</link>
+      <link>//localhost:37933/home/publications_selected/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0530</pubDate>
       
-      <guid>//localhost:1313/home/publications_selected/</guid>
+      <guid>//localhost:37933/home/publications_selected/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Publications</title>
-      <link>//localhost:1313/home/publications/</link>
+      <link>//localhost:37933/home/publications/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0530</pubDate>
       
-      <guid>//localhost:1313/home/publications/</guid>
+      <guid>//localhost:37933/home/publications/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Recent &amp; Upcoming Talks</title>
-      <link>//localhost:1313/home/talks/</link>
+      <link>//localhost:37933/home/talks/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0530</pubDate>
       
-      <guid>//localhost:1313/home/talks/</guid>
+      <guid>//localhost:37933/home/talks/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Recent Posts</title>
-      <link>//localhost:1313/home/posts/</link>
+      <link>//localhost:37933/home/posts/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0530</pubDate>
       
-      <guid>//localhost:1313/home/posts/</guid>
+      <guid>//localhost:37933/home/posts/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Projects</title>
-      <link>//localhost:1313/home/projects/</link>
+      <link>//localhost:37933/home/projects/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0530</pubDate>
       
-      <guid>//localhost:1313/home/projects/</guid>
+      <guid>//localhost:37933/home/projects/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Custom Section</title>
-      <link>//localhost:1313/home/teaching/</link>
+      <link>//localhost:37933/home/teaching/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0530</pubDate>
       
-      <guid>//localhost:1313/home/teaching/</guid>
+      <guid>//localhost:37933/home/teaching/</guid>
       <description>This is an example of using the custom widget to create your own homepage section.
 To remove this section, either delete content/home/teaching.md or edit the frontmatter of the file to deactivate the widget by setting active = false.</description>
     </item>
     
     <item>
       <title>Tags</title>
-      <link>//localhost:1313/home/tags/</link>
+      <link>//localhost:37933/home/tags/</link>
       <pubDate>Wed, 20 Sep 2017 00:00:00 +0530</pubDate>
       
-      <guid>//localhost:1313/home/tags/</guid>
+      <guid>//localhost:37933/home/tags/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>//localhost:1313/home/contact/</link>
+      <link>//localhost:37933/home/contact/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0530</pubDate>
       
-      <guid>//localhost:1313/home/contact/</guid>
+      <guid>//localhost:37933/home/contact/</guid>
       <description></description>
     </item>
     

@@ -24,6 +24,6 @@ weight = 5
 
 # Biography
 
-I am a Masters student, in Computer Science and Engineering, at Indian Institute of Technology Kanpur advised by [Prof. Vinay P. Namboodiri](https://www.cse.iitk.ac.in/users/vinaypn/). My interests are in problems of Computer Vision. I have previously worked in the fields of 3D reconstruction, Active learning for Object Detection. My current thesis area lies broadly in the field of Generative Models and their use in Computer Vision. I spend most of my time in my M.Tech. lab. In my spare time I try to play football(soccer). I am due to graduate from IIT Kanpur in May 2019.
+I am a Masters student, in [Computer Science and Engineering](cse.iitk.ac.in), at [Indian Institute of Technology Kanpur](iitk.ac.in) advised by [Prof. Vinay P. Namboodiri](https://www.cse.iitk.ac.in/users/vinaypn/). My interests are in problems of Computer Vision. I have previously done projects in the fields of 3D reconstruction, Active learning, Multi-Agent system among few other areas. I am currently interested in the field of Generative Models and their use in Computer Vision. When not found in lab I will most likely be sleeping or playing soccer. For a detail of my academic career take a look at my [CV](/files/cv.pdf).
 
 # Research Interests
