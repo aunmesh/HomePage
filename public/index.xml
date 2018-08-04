@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Asim Unmesh on Asim Unmesh</title>
-    <link>//localhost:37933/</link>
+    <link>https://aunmesh.github.io/</link>
     <description>Recent content in Asim Unmesh on Asim Unmesh</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -12,19 +12,19 @@
     
     <item>
       <title>Simulation of Evolution of Society</title>
-      <link>//localhost:37933/publication/simulation-of-evolution-of-society/</link>
+      <link>https://aunmesh.github.io/publication/simulation-of-evolution-of-society/</link>
       <pubDate>Wed, 01 Aug 2018 18:38:26 +0530</pubDate>
       
-      <guid>//localhost:37933/publication/simulation-of-evolution-of-society/</guid>
+      <guid>https://aunmesh.github.io/publication/simulation-of-evolution-of-society/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Surfnet Generating 3D Shape Surfaces Using Deep Residual Networks</title>
-      <link>//localhost:37933/publication/surfnet-generating-3d-shape-surfaces-using-deep-residual-networks/</link>
+      <link>https://aunmesh.github.io/publication/surfnet-generating-3d-shape-surfaces-using-deep-residual-networks/</link>
       <pubDate>Tue, 25 Jul 2017 11:24:27 +0530</pubDate>
       
-      <guid>//localhost:37933/publication/surfnet-generating-3d-shape-surfaces-using-deep-residual-networks/</guid>
+      <guid>https://aunmesh.github.io/publication/surfnet-generating-3d-shape-surfaces-using-deep-residual-networks/</guid>
       <description></description>
     </item>
     

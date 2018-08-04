@@ -6,7 +6,7 @@
 
 # The URL of your website.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-baseurl = "/"
+baseurl = "https://aunmesh.github.io/"
 
 # Title of your site
 title = "Asim Unmesh"
@@ -62,7 +62,7 @@ enableGitInfo = false
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "Indian Institute of Technology, Kanpur", url = "" } ]
+  organizations = [ { name = "Indian Institute of Technology, Kanpur", url = "https://www.iitk.ac.in" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "asim.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
