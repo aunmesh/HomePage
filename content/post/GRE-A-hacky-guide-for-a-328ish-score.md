@@ -74,4 +74,26 @@ It is because the other types of questions which will be asked can be easily ans
 
 ### What skills (for comprehensions)?
 
-First of all it requires concentration. You need to go through 2-3 or sometimes even 4 paragraphs of information. This inforamtion seems ambiguous as you begin to read. This is because you start without a heading.  So you are clueless as to what the comprehension is even about. So you need to be focused, and process information well. Secondly, you must not absolutely make any assumptions. We have a habit of making a lot of assumptions when we read. GRE asks questions an what is written there in the passage, not how you have read it in your head. So you must teach yourself to objectively read 
+First of all it requires concentration. You need to go through 2-3 or sometimes even 4 paragraphs of information. This inforamtion seems ambiguous as you begin to read. This is because you start without a heading.  So you are clueless as to what the comprehension is even about. So you need to be focused, and process information well.<br> Secondly, you must not absolutely make any assumptions. We have a habit of making a lot of assumptions when we read. GRE asks questions an what is written there in the passage, not how you have read it in your head. So you must teach yourself to objectively read without assuming anything even subconsciously.<br>
+Thirdly,  you will need to link information well. Based on the question they are asking, you will have to filter the options by linking the information scattered across the paragraph. Elimination is a very sound strategy here. But the key here is eliminating with a very firm reasoning.<br>
+Lastly you need to be able to read at speed, as the time is limited for GRE. Reading at speed is not tricky, but maintaining speed while doing everything else is. So, speed up!
+
+### Any hacks you used (for comprehensions)?
+
+Yes, I came across one on some youtube video where a girl was talking about her GRE. The questions for a comprehension are usually asked in the order of the paragraphs. Its not a hard and fast rule, but "usually". So if there are a lot of paragraphs you can try answering a question after you have read one paragraph.<br> Also another habit which I developed was, reading all the questions related to one comprehension, before reading the comprehension. This made me aware of the information to look for, and I could immediately identify the important bits when I saw them.
+
+### That was insightful. Practice must be the key here to develop these habits or skills?
+
+Yes ,absolutely. As with everything else, deliberate and puposeful practice is a must.
+
+### Where did you practice these full verbal section tests from?
+
+I practiced them from the hardcopy of Kaplan GRE Guide as well as from their software which gives us 10 full practice tests for each section. That was very helpful, as it helped me to circumvent the need for giving a full test, and just focus section wise improvement.
+
+### Would you recommend section wise tests over full GRE test?
+
+Yes, I would. This is because GRE tests are structured section wise. If you are confident that sitting in an exam for some duration say 4-5 hours are not a problem for you, then you can absolutely give only section wise tests and still get away with not giving any full test. A fun fact - I got away too. 
+
+### Okay, I think we covered the verbal section there. What about the Quant section? Did you have practice?
+
+Yes absolutely. It is not logical to be overconfident. I practiced 5 section tests of Quant and also revised the formulas etc. well before the exam. They were mostly elementary, but doing so helps with your confidence going into the exam. 
