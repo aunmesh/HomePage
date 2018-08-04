@@ -13,7 +13,7 @@ title = "Asim Unmesh"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
-copyright = "&copy; 2018"
+copyright = "&copy Asim Unmesh; 2018"
 
 theme = "academic"
 enableEmoji = true
@@ -271,10 +271,10 @@ enableGitInfo = false
   url = "#publications"
   weight = 2
 
-#[[menu.main]]
-#  name = "Posts"
-#  url = "#posts"
-#  weight = 3
+[[menu.main]]
+  name = "Posts"
+  url = "#posts"
+  weight = 3
 
 [[menu.main]]
   name = "Projects"
