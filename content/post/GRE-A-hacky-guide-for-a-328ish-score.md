@@ -23,8 +23,8 @@ preview = true
 
 +++
 
-**Note** This post is written in the form of an interview. Reasons* below
-
+**Note** This post is written in the form of an interview. Reasons* at the end
+<br><br>
 ### When was your GRE and when did you start preparing for it?
 My GRE was on 5th of July. I started preparing for it around 20th of May.
 
