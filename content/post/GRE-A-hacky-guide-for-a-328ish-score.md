@@ -72,12 +72,12 @@ Of course you have to practice them too. However other types of questions which 
 ### What skills (for comprehensions)?
 
 First of all it requires concentration. You need to go through 2-3 or sometimes even 4 paragraphs of information. This inforamtion seems ambiguous as you begin to read. This is because you start without a heading.  So you are clueless as to what the comprehension is even about. Hence you need to be focused, and process information well.<br> Secondly, you should absolutely not make any assumptions. We have a habit of making a lot of assumptions when we read. GRE asks questions on what is written there in the passage, not how you have read it in your head. So you must teach yourself to objectively read without assuming anything even subconsciously.<br>
-Thirdly,  you will need to link information well. Based on the question they are asking, you will have to filter the options by linking the information scattered across the paragraph. Elimination is a very sound strategy here. But the key here is eliminating with a firm reasoning you feel confident about.<br>
-Lastly you need to be able to read at speed, as the time is limited in GRE. Reading at speed is tricky, but maintaining speed while doing everything else is trickier. So, throttle up!
+Thirdly,  you will need to link information well. Based on the question they are asking, you will have to filter the options by linking the information scattered across the passage. Elimination is a very sound strategy here. But the key here is eliminating with a firm reasoning you feel confident about.<br>
+Lastly you need to be able to read at speed, as the time is limited in GRE. Reading at speed is tricky, but maintaining speed while doing the above said things is trickier. So, throttle up!
 
 ### Any hacks you used (for comprehensions)?
 
-Yes, I came across one on some youtube video where a girl was talking about her GRE. The questions for a comprehension are usually asked in the order of the paragraphs. Its not a hard and fast rule, but "usually". So if there are a lot of paragraphs you can try answering a question after you have read one paragraph instead of reading the whole passage.<br> Also another habit which I developed was, reading all the questions related to one comprehension, before reading the comprehension. This made me aware of the information to look for, and I could immediately identify the important bits when I saw them.
+Yes, I came across one on some youtube video where a girl was talking about her GRE. The questions for a comprehension are usually asked in the order of the paragraphs. Its not a hard and fast rule, but "usually". So if there are a lot of paragraphs you can try answering a question after you have read one paragraph instead of reading the whole passage.<br> Also another habit which I developed was, reading all the questions related to one passage, before reading the passage. This made me aware of the information to look for, and I could immediately identify the important bits when I saw them.
 
 ### That was insightful. Practice must be the key here to develop these habits or skills?
 
@@ -85,7 +85,7 @@ Yes ,absolutely. As with everything else, deliberate and puposeful practice is a
 
 ### Where did you practice these full verbal section tests from?
 
-I practiced them from the hardcopy of Kaplan GRE Guide , as well as from their software which gives us 10 full practice tests for each section. That was very helpful, as it helped me to circumvent the need for giving a full test, and just focus on section wise improvement.
+I practiced them from the hardcopy of Kaplan GRE Guide , as well as from their software which gives us 10 full practice tests for each section. That was very helpful, as it helped me circumvent the need for giving a full test, and just focus on section wise improvement.
 
 ### Would you recommend section wise tests over full GRE test?
 
@@ -93,11 +93,11 @@ Yes, I would. This is because GRE tests are structured section wise. If you are 
 
 ### Okay, I think we covered the verbal section there. What about the Quant section? Did you have practice?
 
-Yes absolutely. It is not wise to be overconfident. I practiced 5 section tests of Quant and also revised the formulas etc. well before the exam. They were mostly elementary, but doing so helps with your confidence going into the exam. 
+Yes, absolutely. It is not wise to be overconfident. I practiced 5 section tests of Quant and also revised the formulas etc. well before the exam. They were mostly elementary, but doing so helps with your confidence going into the exam. 
 
 ### Any important points for Quant section?
 
-Yeah. Firstly Don't be lethargic. Solve questions with speed and accuracy. If you get stuck in some question, mark it and leave it after spending at most 90 seconds on it. If you complete one pass in say 25 minutes, you will still be left with 10 minutes to revisit those questions. I will say that a fast and accurate first pass over the section is important for quant section. Also make use of the mark and review button well. Don't hesitate to use them, but also don't use them too much.
+Yeah. Firstly don't be lethargic. Solve questions with speed and accuracy. If you get stuck in some question, mark it and leave it after spending at most 90 seconds on it. If you complete one pass in say 25 minutes, you will still be left with 10 minutes to revisit those questions. I will say that a fast and accurate first pass over the whole section is important for quant section. Also make use of the mark and review button well. Don't hesitate to use them, but also don't use them too much.
 
 ### What about the analytical writing section? Did you practice it?
 
