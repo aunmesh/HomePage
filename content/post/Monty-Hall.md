@@ -38,7 +38,7 @@ It is important to address this "why" before proceeding any further. We need to 
 
 
 ### Enter Probability
-Probability theorem is an amazing part of Mathematics. One of the reasons it is so amazing is because it has enabled a rational procedure for making guesses. I will say that again - **_"Rational Guess Work"_**. And thus, if we are to be smart here, and make rational choices, we need to follow Probability Theory.
+Probability theory is an amazing part of Mathematics. One of the reasons it is so amazing is because it has enabled a rational procedure for making guesses. I will say that again - **_"Rational Guess Work"_**. And thus, if we are to be smart here, and make rational choices, we need to follow Probability Theory.
 
 
 ### The Answer
@@ -48,7 +48,7 @@ Lets not stand on ceremony here and reveal the answer. The answer is - **_Yes, i
 ### A faulty argument that we should not switch
 [Note: We represent Car by **C** and Goat by **G**]<br>
 A faulty argument using probability theory proceeds as follow:
-<br>Upon revelation, by Monty, there is now a 50-50 chance of our door having the car. This is because our door can now have either car or goat. And since only goat is left, the possibilities are: <br> **C G**, or **G C**. Hence there is 1/2 probability for each configuration, and so making a switch does not help.
+<br>Upon revelation, by Monty, there is now a 50-50 chance of our door having the car. This is because our door can now have either car or goat. And since only goat is left, the possibilities are: <br> **C G**, or **G C** (The first letter in the configuration stands for what is behind the first door and so on). Hence there is 1/2 probability for each configuration, and so making a switch does not help.
 
 ##### Where's the fault?
 
@@ -60,13 +60,17 @@ Possible configurations according to the past information:<br>
 
 ### A Bayesian Reasoning
 
+**[Reasonings given will be best followed by using a pen and a notebook]**<br>
+
 One realises, if they look at the problem carefully, is that the probability of door 1 having a car hasn't changed. Before revelation proability that door 1 has Car was 1/3. Post revelation the probability still remains 1/3.
-<br>( This is because pre revelation, door 1 could either have a car, or 1st goat or 2nd goat. Hence 1/3 probability .Post revelation we have seen that configuration **C G** has 1/3 probability and configuration **G C** has 2/3 probability. So, post revelation, probability of door 1 having a car is same as the probability of **C G** configuration, or 1/3). 
+<br>( This is because pre revelation, door 1 could either have a car, or 1st goat or 2nd goat. Hence 1/3 probability .Post revelation we have seen that configuration **C G G** has 1/3 probability and configuration **G C G** has 2/3 probability. So, post revelation, probability of door 1 having a car is same as the probability of **C G G** configuration, or 1/3). 
 
 This is remarkable. 
-Let's see why this happens.
-<br>When I chose door 1, I had placed my belief on *config 1*. So, when Monty opened door 3 and showed me a goat, should I be surprised? If I should be surprised, by how much should I be surprised? Since I chose *config 1*, I hoped the Car to be in the first door and goats behind the other 2 doors. Thus, if I assume *config 1* to be the case, I shouldn't be surprised at all that the goat is behind door 3. However, I should be surprised. This is not because of the goats or cars, but because of what Monty did. Monty revealed door 3, rather than door 2. Why? How probable is this. It's probability is 1/2. Monty revealing door 3 should surprise us even if we assume *config 1* to be true.
-<br>Let's revisit Baye's rule:<br>
+We will see why this happens, as we argue that we should switch.
+
+When I chose door 1, I had placed my belief on *config 1*. So, when Monty opened door 3 and showed me a goat, should I be surprised? If I should be surprised, then by how much should I be surprised? Since I chose *config 1*, I hoped the Car to be in the first door and goats behind the other 2 doors. Thus, if I assume *config 1* to be the case, I shouldn't be surprised at all that the goat is behind door 3.<br> However, I **should be surprised**. This is not because of the goats or cars, but because of what Monty did. Monty revealed door 3, rather than door 2. Why?  <br>How probable is this(Monty revealing door 2 rather than door 3). It's probability is 1/2 (if we assume *config 1* to be true).
+
+Now, Let's revisit Bayes rule:<br>
 
 P(B|A) = A(A|B)P(B)/P(A)
 <br>or in our case <br>
@@ -99,7 +103,7 @@ So, P( Car behind door 2 | what happened) = 2/3.
 
 Hence we should switch.
 
-### Intuitively why switching is better [courtsey of [betterexplained](https://betterexplained.com/articles/understanding-the-monty-hall-problem/)]
+### Intuitively why switching is better [taken from [betterexplained](https://betterexplained.com/articles/understanding-the-monty-hall-problem/)]
 Let’s see why removing doors makes switching attractive. Instead of the regular game, imagine this variant:<br>
 1. There are 100 doors to pick from in the beginning<br>
 2. You pick one door<br>
@@ -116,11 +120,17 @@ Your decision: Do you want a random door out of 100 (initial guess) or the best 
 ### Summary
 
 We looked at the Monty Hall problem, important points:
-<br>1. Always account for information change.
-<br>2. While assigning probabilities, always check if the events are equiprobable or not.
-<br>3. Bayesian approach is a principled approach for posterior inference. We just need to apply it properly.
 
-### Meta
-1. Bayesian approach fits nicely into machine learning. A model needs to update its belief accordingly, upon seeing new data. This is called the problem of posterior inference.
+1. Always account for information change.
 <br>
-2. It also enables us to have a measure of uncertainty in our beliefs. This is more powerful than just knowing which is the more suitable choice. 
+2. While assigning probabilities, always check if the events are equiprobable or not.
+<br>
+3. Bayesian approach is a principled approach for posterior inference(updating belief after seeing new information). We just need to apply it properly.
+
+### Asides
+1. For another puzzle in probability basics see [Two Envelopes Problem](https://en.wikipedia.org/wiki/Two_envelopes_problem).<br>
+2. Bayesian approach fits nicely into machine learning. A model needs to update its belief accordingly, upon seeing new data. This is called the problem of posterior inference.
+<br>
+3. It also enables us to have a measure of uncertainty in our beliefs. This is more powerful than just knowing which is the more suitable choice. 
+<br> 
+4. See this nature [article](https://www.nature.com/articles/nature14541) for an intro to Probabilistic Machine Learning.
