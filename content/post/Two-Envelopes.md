@@ -102,14 +102,14 @@ B = \frac{1}{2}E[a \mid a > b] +  \frac{1}{2}E[a \mid a < b]
 
 We observe that, 
 \begin{align}
-E[a \mid a > b] > A\  \,, \ E[a \mid a > b] < A
+E[a \mid a > b] > A\  \,, \ E[a \mid a < b] < A
 \end{align}
 
 <br>
 This is because average of $E[a \mid a > b]$ and $E[a \mid a < b]$ is A. And since intuitively, 
 <br>
 \begin{align}
-E[a \mid a > b] >  E[a \mid a > b] 
+E[a \mid a > b] >  E[a \mid a < b] 
 \end{align}
 
 (8) should hold.
@@ -128,6 +128,102 @@ P(x,y) = P(y,x)
 
 It's easy to see this is true. If $x\neq2y$ or $2x\neq y$, then $P(x,y) = 0$.(such an arrangement is not possible as one of $x$ and $y$ must be double of other)
 
-However, if this is not the case, then envelope $1$ and envelope $2$ are not subject of any bias. That is they are _indistinguishable_ and hence probability that amount $x$ is kept in envelope $1$ and $y$ is kept in envelope $2$ is same as $x$ is kept in $2$ and $y$ is kept in $1$.
+However, if this is not the case then they are equal. This is because envelope $1$ and envelope $2$ are not subject of any bias. That is they are _indistinguishable_ and hence probability that amount $x$ is kept in envelope $1$ and $y$ is kept in envelope $2$ is same as $x$ is kept in $2$ and $y$ is kept in $1$.
+
+So,
+
+\begin{align}
+p(a | a > b) = p( \frac{a}{2} | a < b )
+\end{align}
+Here, $a$ is money in envelope $1$ and $b$ is money in envelope $2$.
+
+To see, why this is the case, let's write it in terms of the joint probability distribution $P$.
+
+\begin{align}
+p(a | a>b) = \frac{p(a>b | a) p(a)}{p(a>b)}
+\end{align}
+
+Now,
+\begin{align}
+p1 = \sum_{b\<a}P(a,b)
+\end{align}
+
+\begin{align}
+p2 = \sum_{\forall b}P(a,b)
+\end{align}
+
+\begin{align}
+p(a>b | a) = \frac{p1}{p2}
+\end{align}
+
+\begin{align}
+p(a) = p2
+\end{align}
+
+We know that due to symmetry between envelopes $p(a >b) = \frac{1}{2}$
+So,after substitutions $(12)$ becomes
+\begin{align}
+p(a | a>b) = 2(p1)
+\end{align}
+\begin{align}
+p(a | a>b) = 2 \sum_{b\<a}P(a,b)
+\end{align}
+\begin{align}
+p(a | a>b) = 2 P(a,\frac{a}{2})
+\end{align}
+
+Similarly we can say,
+\begin{align}
+p(a | a<b) = 2 P(a,2a)
+\end{align}
+
+Now, we can see why $(11)$ is true,
+
+\begin{align}
+p(a|a>b) = 2P(a,\frac{a}{2})
+\end{align}
+
+\begin{align}
+p(\frac{a}{2}|a<b) = 2P(\frac{a}{2},a)
+\end{align}
+
+or, more suitably,
+
+\begin{align}
+p(a|a<b) = 2P(a,2a)
+\end{align}
 
 
+Using $(10)$  we see that RHS of above 2 equations are same.
+So $(11)$ is true.
+
+Now,
+$E[a | a > b] = \sum_a 2aP(a,\frac{a}{2}) $
+
+$E[a | a < b] = \sum_a 2aP(a,2a) $
+
+Using $(10)$
+$E[a | a < b] = \sum_a 2aP(2a,a) $
+
+Let $F(a) = 2P(a,\frac{a}{2})$
+
+$E[a | a > b] = \sum_a aF(a) $
+
+$E[a | a < b] = \sum_a aF(2a) $
+Note that F is a pdf for $p(a|a>b)$
+
+Let, $p(a| a<b ) = G(a)$
+Note that G is a pdf for $p(a|a<b)$.
+
+So, $G(a) = F(2a)$
+
+Hence, G is is some sense left shifted version of F.
+Ex. $G(5) = F(10)$
+
+So, it's expectation will also shift left. 
+
+hence $(8)$ and $(9)$ are also true.
+
+<br>
+<br>
+**_I imagine intuition for developing a proof shouldn't be as rigorous. However, if we are to do correct mathematics, we must be rigorous and question everything. It is through these questionings that we can hope to learn the nuances_**
