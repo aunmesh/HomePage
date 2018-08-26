@@ -72,13 +72,18 @@ When I chose door 1, I had placed my belief on *config 1*. So, when Monty opened
 
 Now, Let's revisit Bayes rule:<br>
 
-P(B|A) = A(A|B)P(B)/P(A)
+\begin{align}
+ P(A \mid B) = \frac{P(B \mid A) \, P(A)}{P(B)} 
+\end{align}
+
 <br>or in our case <br>
 
-P( Car behind door 1 | what happened) = 
-P(what happened | Car behind door 1) * P(Car behind door 1) / P(what happened)
+\begin{align}
+\hspace{-80pt}P(Car\ behind\ door\ 1 \mid what\ happened) = \frac{P(what\ happened | Car\ behind\ door\ 1) * P(Car\ behind\ door\ 1)}{P(what\ happened)}
+\end{align}
 
-[Note: When conditioning information is not there, we have condition with the information we had before the revelation]
+
+[Note: When conditioning information is not there, we have to condition with the information we had before the revelation]
 
 We have ascertained that P(what happened | Car behind door 1) = 1/2.
 <br>Now what is P( what happened)? We have to find the probability of "What happened" given our prior knowledge, that is at the beginning of the game. Or more clearly, what is the probability that I would have chosen door 1, and then Monty would have revealed door 3 to be having a goat?
@@ -87,18 +92,25 @@ We have ascertained that P(what happened | Car behind door 1) = 1/2.
 Hence net probability of "What happened" given our prior beliefs is <br>
 (1/2)*(1/3) + 1 * (1/3) = 1/2.
 
-So, we see that  P(what happened | Car behind door 1) = P(what happened).
+So, we see that  
+\begin{align}
+P(what\ happened \mid Car\ behind\ door\ 1) = P(what\ happened).
+\end{align}
 <br> They cancel out on RHS and we are left with:<br>
-P( Car behind door 1 | what happened) = P(Car behind door 1 | knowledge before game).
+\begin{align}
+P(Car\ behind\ door\ 1 \mid what\ happened) = P(Car\ behind\ door\ 1)
+\end{align}
 <br>So, now we know why the probability stays the same even after revelation.
 
 Now,
 
-P( Car behind door 1 | what happened) + P( Car behind door 2 | what happened) + P( Car behind door 3 | what happened) = 1.
-
+\begin{align}
+\hspace{-110pt}P( Car\ behind\ door\ 1 \mid what\ happened) + P( Car\ behind\ door 2 \mid what\ happened) + P( Car\ behind\ door\ 3 \mid what\ happened) = 1.
+\end{align}
 But, 
-P( Car behind door 3 | what happened) = 0
-
+\begin{align}
+P( Car\ behind\ door\ 3 \mid what\ happened) = 0
+\end{align}
 So, P( Car behind door 2 | what happened) = 2/3.
 
 Hence we should switch.
@@ -133,4 +145,7 @@ We looked at the Monty Hall problem, important points:
 <br>
 3. It also enables us to have a measure of uncertainty in our beliefs. This is more powerful than just knowing which is the more suitable choice. 
 <br> 
+
+
+
 4. See this nature [article](https://www.nature.com/articles/nature14541) for an intro to Probabilistic Machine Learning.
