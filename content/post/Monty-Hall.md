@@ -96,7 +96,7 @@ So, we see that
 \begin{align}
 P(what\ happened \mid Car\ behind\ door\ 1) = P(what\ happened).
 \end{align}
-<br> They cancel out on RHS and we are left with:<br>
+<br> They cancel out on RHS of (2) and we are left with:<br>
 \begin{align}
 P(Car\ behind\ door\ 1 \mid what\ happened) = P(Car\ behind\ door\ 1)
 \end{align}
